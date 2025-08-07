@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahul-gupta2101
 - 👀 I’m interested in ai and data science
 - 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on data analytic projects
+- 💞️ I’m looking to collaborate on data analytic projects.
 - 📫 How to reach me http://www.linkedin.com/in/rahul-gupta-b99b45278
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
